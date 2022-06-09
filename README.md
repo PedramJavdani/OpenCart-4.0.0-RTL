@@ -57,9 +57,9 @@ To receive developer notifications about release information, sign up to the new
 # License
 GNU General Public License version 3 (GPLv3)
 # Links
-<a href="https://www.opencart.com/">OpenCart homepage</a><br>
-<a href="https://forum.opencart.com/">OpenCart forums</a><br>
 <a href="https://www.toonalite.ir/">OpenCart RTL team</a><br>
 <a href="https://toonalite.ir/contact/">RTL support</a><br>
+<a href="https://www.opencart.com/">OpenCart homepage</a><br>
+<a href="https://forum.opencart.com/">OpenCart forums</a><br>
 <a href="http://docs.opencart.com/en-gb/introduction/">How to documents</a><br>
 <a href="https://newsletter.opencart.com/h/r/B660EBBE4980C85C">Newsletter</a>
