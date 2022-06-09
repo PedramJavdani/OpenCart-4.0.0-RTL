@@ -6,7 +6,7 @@
 Its RTL version of OpenCart 4.0.0 for RTL languages from Toonalite and Retrina <br>
 OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
 # How to install
-Please read the installation instructions included in the repository or download file.
+Please read the <a href="https://github.com/PedramJavdani/OpenCart-4.0.0-RTL/blob/main/Install.md">installation instructions</a> included in the repository or download file.
 # How to upgrade from previous versions
 Please read the upgrading instructions included in the repository or download file.Please read the upgrading instructions included in the repository or download file.
 # Reporting a bug
