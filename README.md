@@ -3,7 +3,7 @@
 <a href="https://github.com/opencart/opencart"><img src="https://camo.githubusercontent.com/f42df32d9faa6439dfad4af85a2c144d75e3d2e5f7f0bc906c2212057d300b87/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f6f70656e636172742f6f70656e63617274" alt="GitHub release" data-canonical-src="https://img.shields.io/github/v/release/opencart/opencart" style="max-width: 100%;"></a></p>
 
 # Overview
-Its RTL version of OpenCart 4.0.0 for Farsi & Arabic language from Toonalite.ir <br>
+Its RTL version of OpenCart 4.0.0 for Farsi & Arabic language from Toonalite and Retrina <br>
 OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
 # How to install
 Please read the installation instructions included in the repository or download file.
